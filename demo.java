@@ -20,6 +20,7 @@ System.out.println(student.get(2));
      student.keySet();
         System.out.println(student.entrySet());
         System.out.println(student.values());
+        system.out.println("Alteration made ");
 }
 
 }
